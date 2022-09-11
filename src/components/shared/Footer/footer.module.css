@@ -1,0 +1,69 @@
+.youload_footer_section{
+    padding:50px 0;
+    background-color: #404041;
+    color:#fff;
+}
+.footer_title_text{
+    font-size: 24px;
+    width: 165px;
+    line-height: 28.8px;
+    font-weight: 500;
+    display: inline-block;
+    margin-right: 10px;
+}
+.footer_social_links{
+    display: inline;
+}
+.footer_social_links span{
+    display: inline-block;
+    margin-right: 12px;
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+    border-radius: 50%;
+    background-color: #fff;
+    text-align: center;
+    color:#000;
+    font-size: 13px;
+
+}
+.contact_us_div{
+    padding:20px 0;
+}
+.contact_sub_title{
+    margin-bottom: 0;
+}
+.footer_hr{
+    height: 2px;
+    background-color: #C0BDBD;
+
+}
+.contact_sub_title_two{
+    margin-bottom: 20px;
+}
+.footer_btn{
+    background-color: #9A383C;
+    padding:10px 20px;
+    border:none;
+    border-radius: 10px;
+    color:#fff;
+}
+.contact_input input, .contact_input textarea{
+    background-color: #4A4A4A;
+    border:none;
+    outline: none;
+    width: 100%;
+    margin-bottom: 15px;
+    padding:6px 10px;
+    border-radius: 6px;
+}
+.contact_input textarea{
+    height: 296px;
+}
+.contact_input input::placeholder, .contact_input textarea::placeholder {
+    color:#fff;
+}
+.youload_copyright{
+    padding:15px 0;
+    background-color: #373738;
+}
