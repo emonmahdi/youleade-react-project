@@ -1,0 +1,14 @@
+.youlead_navbar{
+    background-color: #48120E;
+    /* height: 85px; */
+    
+}
+.youlead_navbar a {
+     color:#fff;
+}
+.dropdown-item{
+    color: #000 !important;
+}
+.navbar-toggler-icon{
+    color:#fff !important;
+}
